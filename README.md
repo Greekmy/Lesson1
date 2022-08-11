@@ -8,6 +8,7 @@
 Greekmy/Greekmy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 Greekmy repository contains practice codes for Python (.py) and Julia (.jl)
+feel free to practice using the jupyter notebook - just click on the badge
 --->
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Greekmy/python/HEAD)
