@@ -1,3 +1,15 @@
+- 👋 Hi, I’m Akila Sampath,
+- 👀 I’m interested in climate science research,
+- 🌱 I’m currently learning Julia, Data science, and machine learning projects
+- 💞️ I’m looking to collaborate on projects that apply AI to climate data.   
+- 📫 I'm interested in working with people who are optimistic about new creation.
+
+<!---
+Greekmy/Greekmy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+Greekmy repository contains practice codes for Python (.py) 
+--->
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Greekmy/Lesson1/HEAD)
 .. image:: https://mybinder.org/badge_logo.svg
  :target: https://mybinder.org/v2/gh/Greekmy/Lesson1/HEAD
