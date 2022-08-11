@@ -10,6 +10,6 @@ You can click the Preview link to take a look at your changes.
 Greekmy repository contains practice codes for Python (.py) and Julia (.jl)
 --->
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Greekmy/Lesson1/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Greekmy/python/HEAD)
 .. image:: https://mybinder.org/badge_logo.svg
  :target: https://mybinder.org/v2/gh/Greekmy/Lesson1/HEAD
